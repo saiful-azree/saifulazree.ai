@@ -1,5 +1,4 @@
 baseURL = 'https://saiful-azree.github.io/saifulazree.ai/'
 languageCode = 'en-us'
 title = 'SAIFUL AZREE'
-theme = 'ananke'
 theme = 'lightbi-hugo'
