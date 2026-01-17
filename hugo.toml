@@ -2,3 +2,18 @@ baseURL = 'https://saiful-azree.github.io/saifulazree.ai/'
 languageCode = 'en-us'
 title = 'SAIFUL AZREE'
 theme = 'lightbi-hugo'
+
+[params]
+  # This activates the layout seen in your third image
+  homepageLayout = "profile" 
+
+  [params.profile]
+    enable = true
+    title = "Hello, I'm Saiful Azree"
+    shortbio = "I am a Graduate Engineer with hands-on experience in computer vision projects. Passionate about applying image processing and machine learning techniques."
+    # Reference the image you renamed in the static/images folder
+    avatar = "images/profile.jpg" 
+    
+    [[params.profile.buttons]]
+      name = "Explore"
+      url = "/posts"
