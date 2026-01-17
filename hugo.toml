@@ -3,11 +3,16 @@ languageCode = 'en-us'
 title = 'SAIFUL AZREE'
 theme = 'lightbi-hugo'
 
-[Params.profile]
-  enable = true
-  title = "Hello, I'm Saiful Azree"
-  shortbio = "I am a Graduate Engineer with hands-on experience in computer vision projects. Passionate about applying image processing and machine learning techniques."
-  avatar = "img/profile/profile-1.jpg"
+[Params]
+footerCopyright = "Saiful Azree"
+selfHosted = true
+mainSections = ["posts"]
+dateFormat = "02 January 2006"
+showRelatedPosts = true 
+previewCardImagePlacement = "bottom"
+homepageLayout = "profile"
+profileShortbio = "Graduate Engineer with hands-on experience in computer vision projects. Passionate about applying image processing and machine learning techniques to solve real world problems and continuously improving technical skills."
+profilePhoto = "img/profile/profile-1.jpg"
 
 [[menu.main]]
     name = "Home"
