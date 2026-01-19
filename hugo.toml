@@ -21,7 +21,7 @@ profilePhoto = "img/profile/profile-1.jpg"
 
 [[menu.main]]
     name = "Projects"
-    url = "/"
+    url = "/posts/"
     weight = 2
 
 [[menu.main]]
