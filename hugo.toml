@@ -4,7 +4,6 @@ title = 'SAIFUL AZREE'
 theme = 'lightbi-hugo'
 
 [Params]
-footerCopyright = "Saiful Azree"
 selfHosted = true
 mainSections = ["posts"]
 dateFormat = "02 January 2006"
