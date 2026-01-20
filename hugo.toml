@@ -15,13 +15,6 @@ homepageLayout = "profile"
 profileShortbio = "I'm a Graduate Engineer with hands-on experience in computer vision projects. Passionate about applying image processing and machine learning techniques to solve real world problems and continuously improving technical skills."
 profilePhoto = "img/profile/profile-1.jpg"
 
-[params.profile]
-  enable = true
-
-  [[params.profile.buttons]]
-    name = "Browse all"
-    url = "/posts/" 
-
 [[menu.main]]
     name = "Home"
     url = "/"
