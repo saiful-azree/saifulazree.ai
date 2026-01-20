@@ -1,6 +1,6 @@
 ---
 title : Development of A Web-Based Trained Image Classification for Real-Time Object Recognition
-date : 2025-06-24
+date : 2024-06-22
 image : "/img/posts/Picture2.jpg"
 ---
 
