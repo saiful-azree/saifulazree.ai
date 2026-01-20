@@ -27,5 +27,5 @@ profilePhoto = "img/profile/profile-1.jpg"
 
 [[menu.main]]
     name = "Certificates"
-    url = "/certificates"
+    url = "/certificates/"
     weight = 3
