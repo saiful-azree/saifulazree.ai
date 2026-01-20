@@ -40,7 +40,7 @@
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-4">
         <div class="row">
-          {{ $pag := .Paginate (where site.RegularPages "Type" "in" (slice "posts" ) ) 6 }}
+          {{ $pag := .Paginate (where site.RegularPages "Type" "in" (slice "posts" ) ) 3 }}
           {{ range $pag.Pages }}
           {{ partial "post_preview_card" . }}
           {{ end }}
@@ -48,6 +48,7 @@
       </div>
     </div>
 
+    <!--
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-4">
         <div class="row">
@@ -59,7 +60,7 @@
         </div>
       </div>
     </div>
-    </div>
+    </div>-->
   </section>
 
 {{ range .Site.Sections }}
