@@ -14,7 +14,10 @@ previewCardImagePlacement = "bottom"
 homepageLayout = "profile"
 profileShortbio = "I'm a Computer Engineering student with hands-on experience in computer vision projects. Passionate about applying image processing and machine learning techniques to solve real world problems and continuously improving technical skills."
 profilePhoto = "img/profile/profile-1.jpg"
-footerCopyright = "Saiful Azree"
+author = "Saiful Azree"
+
+[Params.Author]
+  name = "Saiful Azree"
 
 [[menu.main]]
     name = "Home"
