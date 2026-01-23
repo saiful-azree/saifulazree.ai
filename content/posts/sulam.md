@@ -1,5 +1,7 @@
 ---
-title : "MindSight: Facial Emotion Recognition for Mental Health Monitoring"
-date : 2025-06-24
-image : "/img/posts/Screenshot 2026-01-21 133131.png"
+title : "Smart Dustbin for Arduino and IoT Learning Program with Melaka Technical School"
+date : 2024-06-08
+image : "/img/posts/photo_2026-01-21_13-00-15.jpg"
 ---
+
+## IoT, Blynk, ArduinoIDE, C++, NodeMCU ESP8266, Sensors
