@@ -30,7 +30,7 @@ description: "Artificial Intelligence, Deep Learning, YOLO Algorithm, Roboflow, 
     {{< figure src="/img/posts/Screenshot 2026-01-25 023945.png"
     attr="Model inference on dataset images" >}}
 
-    - **Unseen Images**: , the model continues to perform well on detecting and classifying the growth and health of the lettuces, such as "Week 2-Unhealthy" and "Week 3-Unhealthy," with reasonable levels of confidence. The model is clearly robust and has an ability to generalize far beyond the original dataset, which is necessary to fit real agricultural use cases.
+    - **Unseen Images**: The model continues to perform well on detecting and classifying the growth and health of the lettuces, such as "Week 2-Unhealthy" and "Week 3-Unhealthy," with reasonable levels of confidence. The model is clearly robust and has an ability to generalize far beyond the original dataset, which is necessary to fit real agricultural use cases.
     {{< figure src="/img/posts/Screenshot 2026-01-25 024020.png"
     attr="Model inference on unseen images" >}}
 
