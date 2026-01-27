@@ -4,13 +4,12 @@ date : 2025-07-25
 image: "/img/posts/Screenshot 2026-01-21 124915.png"
 description: "Artificial Intelligence, Deep Learning, YOLO Algorithm, Roboflow, Google Colab, OpenCV"
 ---
-
 #### The project utilizes the **YOLOv9 (You Only Look Once version 9)** algorithm to automate the monitoring of lettuce in a hydroponic system. This model was chosen for its superior accuracy and efficiency in real-time object detection compared to previous versions.
 
 
 **Key Components of the Analysis**
 - `Dataset and Classes:` 
-    900 images are annotated with manual multi-class labels of growth stages (Week 1 to Week 4) and health (Healthy and Unhealthy) using Roboflow. 
+    - 900 images are annotated with manual multi-class labels of growth stages (Week 1 to Week 4) and health (Healthy and Unhealthy) using Roboflow. 
     {{< figure src="/img/posts/Screenshot 2026-01-25 011746.png"
     attr="Box annotation process"  >}}  
 - `Evaluation Metrics:` 
@@ -22,7 +21,7 @@ description: "Artificial Intelligence, Deep Learning, YOLO Algorithm, Roboflow, 
 
 **Results**
 - `Model Version Comparison:`
-    YOLOv9 achieved mAP@0.5 of 94% as well as mAP@0.5:0.95 of 83.6%, beating YOLOv8’s scores of mAP@0.5 and mAP@0.5:0.95 which is 84.4%, and 72.6% respectively. These results guarantee that YOLOv9 offers superior overall performance in both detection validity and generalization.
+    - YOLOv9 achieved mAP@0.5 of 94% as well as mAP@0.5:0.95 of 83.6%, beating YOLOv8’s scores of mAP@0.5 and mAP@0.5:0.95 which is 84.4%, and 72.6% respectively. These results guarantee that YOLOv9 offers superior overall performance in both detection validity and generalization.
     {{< figure src="/img/posts/Screenshot 2026-01-25 020428.png"
     attr="Comparison on mAP performance between YOLOv9 and YOLOv8" >}}  
 - `Model Inference (YOLOv9):`
