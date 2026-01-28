@@ -4,8 +4,6 @@ date : 2025-07-25
 image: "/img/posts/Screenshot 2026-01-21 124915.png"
 description: "Artificial Intelligence, Deep Learning, YOLO Algorithm, Roboflow, Google Colab, OpenCV"
 ---
-<div style="text-align: justify;">
-
 #### The project utilizes the **YOLOv9 (You Only Look Once version 9)** algorithm to automate the monitoring of lettuce in a hydroponic system. This model was chosen for its superior accuracy and efficiency in real-time object detection compared to previous versions.
 
 
@@ -34,6 +32,5 @@ description: "Artificial Intelligence, Deep Learning, YOLO Algorithm, Roboflow, 
     - **Unseen Images**: The model continues to perform well on detecting and classifying the growth and health of the lettuces, such as "Week 2-Unhealthy" and "Week 3-Unhealthy," with reasonable levels of confidence. The model is clearly robust and has an ability to generalize far beyond the original dataset, which is necessary to fit real agricultural use cases.
     {{< figure src="/img/posts/Screenshot 2026-01-25 024020.png"
     attr="Model inference on unseen images" >}}
-    
-</div>
+
 

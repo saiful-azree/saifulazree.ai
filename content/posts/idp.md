@@ -4,8 +4,6 @@ date : 2024-06-22
 image : "/img/posts/photo_2026-01-21_13-00-14.jpg"
 description: "Artificial Intelligence, Machine Learning, STM32, Teachable Machine, STM32CubeAI, STM32CubeMX, STM32CubeIDE, ArduinoUNO"
 ---
-<div style="text-align: justify;">
-
 #### This group project is about a work with Embedded AI (TinyML), integrating cloud-based training tools with hardware constraints. We designed and deployed a real-time image recognition system on a resource-constrained STM32H747I-DISCO microcontroller. The project aimed to bridge the gap between complex AI models and edge devices by enabling standalone image classification without reliance on continuous cloud processing.
 
 
@@ -44,23 +42,15 @@ description: "Artificial Intelligence, Machine Learning, STM32, Teachable Machin
 **Building Process**
     {{< figure src="/img/posts/photo_2026-01-28_11-42-52.jpg"
     attr="Early sketch idea on how to setup the STM32H747I-DISCO board and B-CAMS-OMV camera module" >}}
-
     {{< figure src="/img/posts/photo_2026-01-28_11-42-57.jpg"
     attr="Early development of the prototype" >}}
-
     {{< figure src="/img/posts/photo_2026-01-28_11-43-00.jpg"
     attr="Finished product of the prototype" >}}
-
     {{< figure src="/img/posts/photo_2026-01-28_11-43-04.jpg"
     attr="Output result of recognition for ESP 32 cam" >}}
-
     {{< figure src="/img/posts/photo_2026-01-28_11-43-08.jpg"
     attr="Output result of recognition for ESP8266" >}}
-
     {{< figure src="/img/posts/photo_2026-01-28_11-43-11.jpg"
     attr="Output result of recognition for Arduino UNO" >}}
-
     {{< figure src="/img/posts/photo_2026-01-28_11-43-14.jpg"
     attr="Output result of recognition for STM32 Nucleo" >}}
-
-</div>
