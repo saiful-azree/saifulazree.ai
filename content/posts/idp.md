@@ -40,17 +40,9 @@ description: "Artificial Intelligence, Machine Learning, STM32, Teachable Machin
     - Identified critical limitations in the fixed-focus camera module, which required precise physical alignment for accurate inference, providing valuable insight for future hardware selection.
 
 **Building Process**
-    {{< figure src="/img/posts/photo_2026-01-28_11-42-52.jpg"
-    attr="Early sketch idea on how to setup the STM32H747I-DISCO board and B-CAMS-OMV camera module" >}}
-    {{< figure src="/img/posts/photo_2026-01-28_11-42-57.jpg"
+{{< figure src="/img/posts/photo_2026-01-28_11-42-57.jpg"
     attr="Early development of the prototype" >}}
-    {{< figure src="/img/posts/photo_2026-01-28_11-43-00.jpg"
+{{< figure src="/img/posts/photo_2026-01-28_11-43-00.jpg"
     attr="Finished product of the prototype" >}}
-    {{< figure src="/img/posts/photo_2026-01-28_11-43-04.jpg"
+{{< figure src="/img/posts/photo_2026-01-28_11-43-04.jpg"
     attr="Output result of recognition for ESP 32 cam" >}}
-    {{< figure src="/img/posts/photo_2026-01-28_11-43-08.jpg"
-    attr="Output result of recognition for ESP8266" >}}
-    {{< figure src="/img/posts/photo_2026-01-28_11-43-11.jpg"
-    attr="Output result of recognition for Arduino UNO" >}}
-    {{< figure src="/img/posts/photo_2026-01-28_11-43-14.jpg"
-    attr="Output result of recognition for STM32 Nucleo" >}}
