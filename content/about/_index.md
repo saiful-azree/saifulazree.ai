@@ -4,6 +4,8 @@ title : "About Me"
 date: "2026-01-17"
 image : "/img/about/photo_2026-02-10_16-09-42.jpg"
 ---
+{{< figure src="/img/about/photo_2026-02-10_16-09-42.jpg"
+    attr="" >}}
 <div style="text-align: justify;">
 
 # Hello, I'm Saiful Azree 👋
