@@ -24,8 +24,10 @@ description: "IoT, Blynk, ArduinoIDE, C++, NodeMCU ESP8266, Sensors"
 - `System Performance:`
     - The system successfully demonstrated real-time logic, where the servo motor responded to proximity and the Blynk app accurately reflected fill levels.
 - `Educational Impact:`
-    - Pre- and post-program surveys indicated a significant increase in technical literacy. While initial knowledge of IoT was mixed, post-activity feedback showed that students successfully grasped how to connect components and use sensors.
+    - Pre and post program surveys indicated a significant increase in technical literacy. While initial knowledge of IoT was mixed, post-activity feedback showed that students successfully grasped how to connect components and use sensors.
+    {{< figure src="/img/posts/photo_2026-02-10_15-27-40.jpg"
+    attr="Explaining the connection between the sensors and the microcontroller" >}}
 - `User Satisfaction:`
-    - The program received a high satisfaction rating (scores of 4 and 5 out of 5), validating the effectiveness of the "Service Learning" (SULAM) approach.
+    - The program received a high satisfaction rating, validating the effectiveness of the "Service Learning" (SULAM) approach.
 - `Sustainability Alignment:`
     - The project was analyzed against UN Sustainable Development Goals, specifically contributing to SDG 9 (Industry, Innovation, and Infrastructure) and SDG 11 (Sustainable Cities and Communities) by modernizing waste infrastructure.
