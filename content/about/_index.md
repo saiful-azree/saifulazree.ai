@@ -2,19 +2,18 @@
 layout : "about"
 title : "About Me"
 date: "2026-01-17"
+image : "/img/about/photo_2026-02-10_16-09-42.jpg"
 ---
 <div style="text-align: justify;">
 
 # Hello, I'm Saiful Azree 👋
 
-I am a **Graduate Engineer** specializing in **Computer Vision**, **Artificial Intelligence**, and **Embedded Systems**. My passion lies in creating "intelligent eyes" for machines—developing algorithms that allow technology to perceive, understand, and interact with the physical world in real-time.
+I am a **Computer Engineering** student specializing in **Computer Vision**, **Artificial Intelligence**, and **Embedded Systems**. My passion lies in creating "intelligent eyes" for machines, developing algorithms that allow technology to perceive, understand, and interact with the physical world in real-time.
 
 ---
 
 ## 🚀 My Engineering Journey
-My journey into AI began with a fascination for how software can interpret visual data to solve human problems. This led me to explore the balance between complex deep learning models and hardware constraints. 
-
-From my early days working with **Arduino and IoT**, to my recent research in **YOLOv9-based agricultural monitoring**, I have consistently focused on **Edge AI**—ensuring that powerful intelligence can run efficiently on compact, real-world devices.
+It started in Form 4 when I chose to take the **physical science stream** after sitting for the PT3 exam. Between the physical science stream and the pure science stream, both have physics and chemistry subjects. However, the physical science stream does not have biology subjects, instead the stream has technical communication graphics (engineering drawings) and sustainability basics subjects.
 
 ---
 
