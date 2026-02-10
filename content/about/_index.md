@@ -15,7 +15,13 @@ I am a **Computer Engineering** student specializing in **Computer Vision**, **A
 ---
 
 ## 🚀 My Engineering Journey
+{{< figure src="/img/about/smksi.JPG"
+    attr="" >}}
 It started in Form 4 when I chose to take the **physical science stream** after sitting for the PT3 exam. Between the physical science stream and the pure science stream, both have physics and chemistry subjects. However, the physical science stream does not have biology subjects, instead the stream has technical communication graphics (engineering drawings) and sustainability basics subjects.
+
+{{< figure src="/img/about/kmkph.png"
+    attr="" >}}
+
 
 ---
 
