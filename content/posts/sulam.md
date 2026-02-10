@@ -10,11 +10,15 @@ description: "IoT, Blynk, ArduinoIDE, C++, NodeMCU ESP8266, Sensors"
 **Key Components of the Analysis**
 - `Microcontroller Integration:`
     - Utilized the NodeMCU ESP8266 for its Wi-Fi capabilities, serving as the central processing unit to connect hardware with the cloud.
+    {{< figure src="/img/posts/photo_2026-02-10_12-40-37.jpg"
+    attr="Schematic diagram of the Smart Dustbin system" >}}
 - `Sensor Fusion Strategy:`
     - **Lid Automation**: An external ultrasonic sensor detects human presence to trigger a Servo Motor, opening the lid automatically for hygienic, touch-free disposal.
     - **Fill-Level Monitoring**: An internal ultrasonic sensor continuously measures the distance to the trash. Data is processed to calculate the fill percentage.
 - `IoT Platform:`
     - Integrated the Blynk Mobile App to display real-time status updates and send push notifications to the user when the bin reaches capacity.
+    {{< figure src="/img/posts/photo_2026-02-10_15-09-23.jpg"
+    attr="Blynk interface for displaying the status (currently offline)" >}}
 
 **Results and Analysis**
 - `System Performance:`
