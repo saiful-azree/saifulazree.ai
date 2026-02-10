@@ -22,7 +22,7 @@ profilePhoto = "img/profile/profile-1.jpg"
 
 [[menu.main]]
     name = "About"
-    url = "//"
+    url = "/about/"
     weight = 2
 
 [[menu.main]]
