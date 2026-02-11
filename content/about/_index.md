@@ -4,7 +4,7 @@ title : "About Me"
 date: "2026-01-17"
 image : "/img/about/photo_2026-02-10_16-09-42.jpg"
 ---
-{{< figure src="/img/about/photo_2026-02-10_16-09-42.jpg"
+{{< figure src="/img/profile/photo_2026-02-10_16-09-42.jpg"
     width="300px" height="auto"
     attr="" >}}
 <div style="text-align: justify;">
@@ -20,7 +20,7 @@ It started when I was in Form 4 when I chose to take the **physical science stre
 
 After sitting for SPM and finishing secondary school, I continued my studies at Pahang Engineering Matriculation (KMKPh) for one year. This is my first time living in dormitory and I learned a lot of things while I was here. At this time, engineering matriculation colleges combine three types of engineering **(civil engineering, electrical engineering, and mechanical engineering)** in one module. 
 
-After completing my studies at KMKPh, I chose Universiti Teknikal Malaysia Melaka (UTeM) to continue my studies for a bachelor's degree in 2021. The program I took at UTeM is **Bachelor of Computer Engineering with Honours** and my study period there was 4 years. When I first entered UTeM, my faculty name was Fakulti Kejuruteraan Elektronik dan Kejuruteraan Komputer (FKEKK) but then it was changed to Fakulti Teknologi dan Kejuruteraan Elektronik dan Komputer (FTKEK).
+After completing my studies at KMKPh, I chose Universiti Teknikal Malaysia Melaka (UTeM) to continue my studies for a bachelor's degree in 2021. The program I took at UTeM is **Bachelor of Computer Engineering with Honours** and my study period there was 4 years.
 
 {{< img_gallery  folder="/img/about/" >}}
 
