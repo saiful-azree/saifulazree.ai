@@ -54,6 +54,6 @@ I am always open to discussing new projects, technical challenges, or opportunit
 
 <br>
 
-[My Resume]([click](/pdf/RESUME_Saiful Azree.pdf>))
+<a href="/pdf/RESUME_Saiful Azree.pdf>)">MY RESUME</a>
 
 </div>
