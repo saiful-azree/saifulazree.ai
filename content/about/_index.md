@@ -26,7 +26,7 @@ After sitting for SPM and finishing secondary school, I continued my studies at 
     width="600px" height="auto"
     attr="Kolej Matrikulasi Kejuruteraan Pahang (KMKPh)" >}}
 
-In 2021, I 
+After completing my studies at KMKPh, I chose Universiti Teknikal Malaysia Melaka (UTeM) to continue my studies for a bachelor's degree in 2021. The program I took at UTeM is **Bachelor of Computer Engineering with Honours** and my study period there was 4 years. When I first entered UTeM, my faculty name was Fakulti Kejuruteraan Elektronik dan Kejuruteraan Komputer (FKEKK) but then it was changed to Fakulti Teknologi dan Kejuruteraan Elektronik dan Komputer (FTKEK).
 {{< figure src="/img/about/utem.jpg"
     width="600px" height="auto"
     attr="Universiti Teknikal Malaysia Melaka (UTeM)" >}}
@@ -39,18 +39,21 @@ In 2021, I
 ## 🛠️ Technical Expertise
 I bridge the gap between high-level AI research and low-level hardware implementation:
 
-* **Computer Vision**: Expertise in object detection (YOLOv8/v9), facial expression recognition (CNNs & Transformers), and image preprocessing with OpenCV.
-* **Embedded Systems**: Hands-on experience deploying models on STM32H7, NodeMCU ESP8266, and Raspberry Pi.
-* **AI Frameworks**: Proficient in PyTorch, TensorFlow, and Keras for training and optimizing neural networks.
-* **Optimization**: Skilled in TinyML, model quantization, and using STM32Cube.AI to adapt models for resource-constrained environments.
+* **Computer Vision:** Expertise in object detection (YOLOv8/v9), facial expression recognition (CNNs & Transformers), and image preprocessing with OpenCV.
+* **Embedded Systems:** Hands-on experience deploying models on STM32H7, NodeMCU ESP8266, and Raspberry Pi.
+* **AI Frameworks:** Proficient in PyTorch, TensorFlow, and Keras for training and optimizing neural networks.
+* **Optimization:** Skilled in TinyML, model quantization, and using STM32Cube.AI to adapt models for resource-constrained environments.
 
 ---
 
 ## 📫 Let's Connect
 I am always open to discussing new projects, technical challenges, or opportunities in the AI and Computer Vision space.
 
-* **Email:**
-* **GitHub:**
-* **Resume:** 
+* **Email:** [azreeayie24@gmail.com](mailto:azreeayie24@email.com)
+* **GitHub:** [github.com/saiful-azree](https://github.com/saiful-azree)
+
+<br>
+
+[Download My Resume (PDF)](/pdf/RESUME_Saiful Azree.pdf)
 
 </div>
