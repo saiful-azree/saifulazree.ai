@@ -17,21 +17,21 @@ I am a **Computer Engineering** student specializing in **Computer Vision**, **A
 
 ## 🚀 My Engineering Journey
 {{< figure src="/img/about/smksi.JPG"
-    width="400px" height="auto"
+    width="600px" height="auto"
     attr="Sekolah Menengah Kebangsaan Seri Indah (SMKSI)" >}}
 It started in Form 4 when I chose to take the **physical science stream** after sitting for the PT3 exam. Between the physical science stream and the pure science stream, both have physics and chemistry subjects. However, the physical science stream does not have biology subjects, instead the stream has technical communication graphics (engineering drawings) and sustainability basics subjects for SPM.
 
 {{< figure src="/img/about/kmkph.png"
-    width="400px" height="auto"
+    width="600px" height="auto"
     attr="Kolej Matrikulasi Kejuruteraan Pahang (KMKPh)" >}}
-After sitting for SPM and finishing secondary school, I continued my studies at Pahang Engineering Matriculation (KMKPh). This is my first time living in dormitory and I learned a lot of things while I was here. 
+After sitting for SPM and finishing secondary school, I continued my studies at Pahang Engineering Matriculation (KMKPh). This is my first time living in dormitory and I learned a lot of things while I was here. At this time, engineering matriculation colleges combine three types of engineering (civil engineering, electrical engineering, and mechanical engineering) in one module.
 
 {{< figure src="/img/about/utem.jpg"
-    width="400px" height="auto"
+    width="600px" height="auto"
     attr="Universiti Teknikal Malaysia Melaka (UTeM)" >}}
 {{< figure src="/img/about/ftkek.jpeg"
-    width="400px" height="auto"
-    attr="Fakulti Teknologi dan Kejuruteraan Elektronik dan Komputer" >}}
+    width="600px" height="auto"
+    attr="Fakulti Teknologi dan Kejuruteraan Elektronik dan Komputer (FTKEK)" >}}
 
 ---
 
