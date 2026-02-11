@@ -5,7 +5,7 @@ date: "2026-01-17"
 image : "/img/about/photo_2026-02-10_16-09-42.jpg"
 ---
 {{< figure src="/img/about/photo_2026-02-10_16-09-42.jpg"
-    width="50px" height="auto"
+    width="150px" height="auto"
     attr="" >}}
 <div style="text-align: justify;">
 
@@ -22,7 +22,7 @@ It started in Form 4 when I chose to take the **physical science stream** after 
 
 {{< figure src="/img/about/kmkph.png"
     attr="" >}}
-After SPM, 
+After sitting for SPM and finishing secondary school, I continued my studies at Pahang Engineering Matriculation.
 
 
 ---
