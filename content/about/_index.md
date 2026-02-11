@@ -5,7 +5,7 @@ date: "2026-01-17"
 image : "/img/about/photo_2026-02-10_16-09-42.jpg"
 ---
 {{< figure src="/img/about/photo_2026-02-10_16-09-42.jpg"
-    width="150px" height="auto"
+    width="200px" height="auto"
     attr="" >}}
 <div style="text-align: justify;">
 
@@ -17,10 +17,12 @@ I am a **Computer Engineering** student specializing in **Computer Vision**, **A
 
 ## 🚀 My Engineering Journey
 {{< figure src="/img/about/smksi.JPG"
+    width="200px" height="auto"
     attr="" >}}
 It started in Form 4 when I chose to take the **physical science stream** after sitting for the PT3 exam. Between the physical science stream and the pure science stream, both have physics and chemistry subjects. However, the physical science stream does not have biology subjects, instead the stream has technical communication graphics (engineering drawings) and sustainability basics subjects for SPM.
 
 {{< figure src="/img/about/kmkph.png"
+    width="200px" height="auto"
     attr="" >}}
 After sitting for SPM and finishing secondary school, I continued my studies at Pahang Engineering Matriculation.
 
